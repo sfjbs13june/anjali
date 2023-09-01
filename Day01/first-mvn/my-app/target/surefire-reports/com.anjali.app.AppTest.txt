@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.rama.data.AppTest
+Test set: com.anjali.app.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.041 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.043 sec
